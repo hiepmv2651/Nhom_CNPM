@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QLCHXM>
+    <NhanVien>
+        <MaNV>NV111</MaNV>
+        <TenNV>Mạnh Văn Hiệp</TenNV>
+        <NgaySinh>1995-08-08</NgaySinh>
+        <SDT>0335423423</SDT>
+        <DiaChi>Bình Dương</DiaChi>
+        <Luong>7000000</Luong>
+        <AnhNV>nv1.png</AnhNV>
+        <TaiKhoanNV>NV111@gmail.com</TaiKhoanNV>
+        <MatKhauNV>21232f297a57a5a743894a0e4a801fc3</MatKhauNV>
+    </NhanVien>
+    <NhanVien>
+        <MaNV>NV112</MaNV>
+        <TenNV>Nguyễn Bình Dương</TenNV>
+        <NgaySinh>1991-09-08</NgaySinh>
+        <SDT>0335422345</SDT>
+        <DiaChi>Vũng Tàu</DiaChi>
+        <Luong>9000000</Luong>
+        <AnhNV>nv2.png</AnhNV>
+        <TaiKhoanNV>NV112@gmail.com</TaiKhoanNV>
+        <MatKhauNV>e10adc3949ba59abbe56e057f20f883e</MatKhauNV>
+    </NhanVien>
+    <NhanVien>
+        <MaNV>NV113</MaNV>
+        <TenNV>Trần Việt Thiện</TenNV>
+        <NgaySinh>1992-10-09</NgaySinh>
+        <SDT>0335422345</SDT>
+        <DiaChi>Quy Nhơn</DiaChi>
+        <Luong>8000000</Luong>
+        <AnhNV>nv3.png</AnhNV>
+        <TaiKhoanNV>NV113@gmail.com</TaiKhoanNV>
+        <MatKhauNV>e10adc3949ba59abbe56e057f20f883e</MatKhauNV>
+    </NhanVien>
+    <NhanVien>
+        <MaNV>NV114</MaNV>
+        <TenNV>Huỳnh Nhật Trưởng</TenNV>
+        <NgaySinh>1987-12-09</NgaySinh>
+        <SDT>0375627345</SDT>
+        <DiaChi>Quy Nhơn</DiaChi>
+        <Luong>10000000</Luong>
+        <AnhNV>nv4.png</AnhNV>
+        <TaiKhoanNV>NV114@gmail.com</TaiKhoanNV>
+        <MatKhauNV>e10adc3949ba59abbe56e057f20f883e</MatKhauNV>
+    </NhanVien>
+    <NhanVien>
+        <MaNV>NV115</MaNV>
+        <TenNV>Trần Văn Tiền</TenNV>
+        <NgaySinh>1999-10-10</NgaySinh>
+        <SDT>0335422345</SDT>
+        <DiaChi>Nha Trang</DiaChi>
+        <Luong>7000000</Luong>
+        <AnhNV>nv5.png</AnhNV>
+        <TaiKhoanNV>NV115@gmail.com</TaiKhoanNV>
+        <MatKhauNV>e10adc3949ba59abbe56e057f20f883e</MatKhauNV>
+    </NhanVien>
+    <KhachHang>
+        <MaKH>KH11</MaKH>
+        <HoTenKH>Lê Văn Đô</HoTenKH>
+        <DiaChi>Nha Trang</DiaChi>
+        <SDT>0325678976</SDT>
+        <AnhKH>kh1.png</AnhKH>
+    </KhachHang>
+    <KhachHang>
+        <MaKH>KH12</MaKH>
+        <HoTenKH>Lê Văn Xuân</HoTenKH>
+        <DiaChi>Nha Trang</DiaChi>
+        <SDT>0325678888</SDT>
+        <AnhKH>kh2.png</AnhKH>
+    </KhachHang>
+    <KhachHang>
+        <MaKH>KH13</MaKH>
+        <HoTenKH>Đỗ Hùng Dũng</HoTenKH>
+        <DiaChi>Hà Nội</DiaChi>
+        <SDT>0325677777</SDT>
+        <AnhKH>kh3.png</AnhKH>
+    </KhachHang>
+    <KhachHang>
+        <MaKH>KH14</MaKH>
+        <HoTenKH>Nguyễn Tiến Linh</HoTenKH>
+        <DiaChi>Bình Dương</DiaChi>
+        <SDT>0325671234</SDT>
+        <AnhKH>kh4.png</AnhKH>
+    </KhachHang>
+    <KhachHang>
+        <MaKH>KH15</MaKH>
+        <HoTenKH>Trần Quỳnh Như</HoTenKH>
+        <DiaChi>Bình Dương</DiaChi>
+        <SDT>0345672234</SDT>
+        <AnhKH>kh5.png</AnhKH>
+    </KhachHang>
+    <HangXeMay>
+        <MaHang>HD1</MaHang>
+        <TenHang>Honda</TenHang>
+    </HangXeMay>
+    <HangXeMay>
+        <MaHang>YM2</MaHang>
+        <TenHang>Yamaha</TenHang>
+    </HangXeMay>
+    <HangXeMay>
+        <MaHang>PG3</MaHang>
+        <TenHang>Piaggio</TenHang>
+    </HangXeMay>
+    <HangXeMay>
+        <MaHang>SY4</MaHang>
+        <TenHang>SYM</TenHang>
+    </HangXeMay>
+    <HangXeMay>
+        <MaHang>SK5</MaHang>
+        <TenHang>Suzuki</TenHang>
+    </HangXeMay>
+    <XeMay>
+        <MaXM>VS1</MaXM>
+        <TenXM>Vision</TenXM>
+        <MaHang>HD1</MaHang>
+        <SoLuong>20</SoLuong>
+        <DonGia>38000000</DonGia>
+        <AnhXM>vision.png</AnhXM>
+    </XeMay>
+    <XeMay>
+        <MaXM>SR2</MaXM>
+        <TenXM>Sirius</TenXM>
+        <MaHang>YM2</MaHang>
+        <SoLuong>20</SoLuong>
+        <DonGia>21000000</DonGia>
+        <AnhXM>sirius.png</AnhXM>
+    </XeMay>
+    <XeMay>
+        <MaXM>LB3</MaXM>
+        <TenXM>Liberty</TenXM>
+        <MaHang>PG3</MaHang>
+        <SoLuong>20</SoLuong>
+        <DonGia>39000000</DonGia>
+        <AnhXM>liberty.png</AnhXM>
+    </XeMay>
+    <XeMay>
+        <MaXM>AT4</MaXM>
+        <TenXM>Attila</TenXM>
+        <MaHang>SY4</MaHang>
+        <SoLuong>20</SoLuong>
+        <DonGia>25000000</DonGia>
+        <AnhXM>attila.png</AnhXM>
+    </XeMay>
+    <XeMay>
+        <MaXM>BD5</MaXM>
+        <TenXM>Bandit</TenXM>
+        <MaHang>SK5</MaHang>
+        <SoLuong>20</SoLuong>
+        <DonGia>68000000</DonGia>
+        <AnhXM>bandit.png</AnhXM>
+    </XeMay>
+    <HoaDon>
+        <MaHD>HD2</MaHD>
+        <MaNV>NV111</MaNV>
+        <MaKH>KH1</MaKH>
+        <NgayBan>2019-07-07</NgayBan>
+    </HoaDon>
+    <HoaDon>
+        <MaHD>HD3</MaHD>
+        <MaNV>NV113</MaNV>
+        <MaKH>KH2</MaKH>
+        <NgayBan>2019-09-07</NgayBan>
+    </HoaDon>
+    <HoaDon>
+        <MaHD>HD4</MaHD>
+        <MaNV>NV112</MaNV>
+        <MaKH>KH3</MaKH>
+        <NgayBan>2018-12-12</NgayBan>
+    </HoaDon>
+    <HoaDon>
+        <MaHD>HD5</MaHD>
+        <MaNV>NV115</MaNV>
+        <MaKH>KH4</MaKH>
+        <NgayBan>2019-02-15</NgayBan>
+    </HoaDon>
+    <HoaDon>
+        <MaHD>HD6</MaHD>
+        <MaNV>NV114</MaNV>
+        <MaKH>KH5</MaKH>
+        <NgayBan>2019-07-07</NgayBan>
+    </HoaDon>
+    <ChiTietHoaDon>
+        <MaHD>HD2</MaHD>
+        <MaXM>AT4</MaXM>
+        <DonGia>25000000</DonGia>
+        <SoLuong>2</SoLuong>
+        <TongTien>50000000</TongTien>
+    </ChiTietHoaDon>
+    <ChiTietHoaDon>
+        <MaHD>HD3</MaHD>
+        <MaXM>SR2</MaXM>
+        <DonGia>21000000</DonGia>
+        <SoLuong>3</SoLuong>
+        <TongTien>63000000</TongTien>
+    </ChiTietHoaDon>
+    <ChiTietHoaDon>
+        <MaHD>HD4</MaHD>
+        <MaXM>VS1</MaXM>
+        <DonGia>38000000</DonGia>
+        <SoLuong>2</SoLuong>
+        <TongTien>76000000</TongTien>
+    </ChiTietHoaDon>
+    <ChiTietHoaDon>
+        <MaHD>HD5</MaHD>
+        <MaXM>LB3</MaXM>
+        <DonGia>25000000</DonGia>
+        <SoLuong>1</SoLuong>
+        <TongTien>25000000</TongTien>
+    </ChiTietHoaDon>
+    <ChiTietHoaDon>
+        <MaHD>HD6</MaHD>
+        <MaXM>BD5</MaXM>
+        <DonGia>25000000</DonGia>
+        <SoLuong>1</SoLuong>
+        <TongTien>25000000</TongTien>
+    </ChiTietHoaDon>
+    
+    
+    
+    
+<NhanVien><MaNV>123</MaNV><TenNV>123</TenNV><NgaySinh>2022-06-02T16:31</NgaySinh><SDT>123</SDT><DiaChi>123</DiaChi><Luong>123</Luong><TaiKhoanNV>123</TaiKhoanNV><MatKhauNV>202cb962ac59075b964b07152d234b70</MatKhauNV><AnhNV>YenSao.png</AnhNV></NhanVien><KhachHang><MaKH>123</MaKH><HoTenKH>123</HoTenKH><DiaChi>123</DiaChi><SDT>123</SDT><AnhKH>employee.png</AnhKH></KhachHang></QLCHXM>
